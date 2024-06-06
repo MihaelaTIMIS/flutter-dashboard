@@ -1,0 +1,1 @@
+{"p":["le30_app_web","lib/news/news.dart"],"s":[["le30_app_web","lib/news/news.dart"]],"d":[["firebase_web","lib/firebase.dart"],["firebase_web","lib/firestore.dart"],["flutter","lib/material.dart"],["intl","lib/date_symbol_data_local.dart"],["le30_app_web","lib/news/list_news.dart"],["le30_app_web","lib/services/users_data.dart"]],"m":false,"is":true,"pf":"flutter_web"}

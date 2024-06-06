@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["firebase_web|lib/firebase.dart","firebase_web|lib/firestore.dart","flutter|lib/material.dart","le30_app_web|lib/globals/users.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

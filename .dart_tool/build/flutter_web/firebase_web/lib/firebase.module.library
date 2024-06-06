@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["firebase_web|lib/src/app.dart","firebase_web|lib/src/auth.dart","firebase_web|lib/src/database.dart","firebase_web|lib/src/functions.dart","firebase_web|lib/src/messaging.dart","firebase_web|lib/src/storage.dart","firebase_web|lib/src/top_level.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

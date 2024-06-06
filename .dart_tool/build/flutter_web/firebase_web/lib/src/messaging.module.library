@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["js|lib/js.dart","firebase_web|lib/src/interop/messaging_interop.dart","firebase_web|lib/src/js.dart","firebase_web|lib/src/utils.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","le30_app_web|lib/navbar/navbar_item_model.dart","le30_app_web|lib/view/locator.dart","le30_app_web|lib/services/navigation_service.dart","provider|lib/provider.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

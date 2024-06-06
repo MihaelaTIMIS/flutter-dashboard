@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","le30_app_web|lib/navbar/navbar_item.dart","le30_app_web|lib/services/route_name.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["ui"],"hasMain":false}

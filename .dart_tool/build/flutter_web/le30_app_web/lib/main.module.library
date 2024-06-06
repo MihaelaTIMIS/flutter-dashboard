@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","le30_app_web|lib/login/login.dart","le30_app_web|lib/view/locator.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":true}
